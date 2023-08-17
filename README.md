@@ -3,6 +3,7 @@
 &nbsp;
 &nbsp;
 - 🌱 I’m currently learning **Node.js, Express, MongoDB and Docker**
+
 - 📫 How to reach me **benek9311@wp.pl / beniaminbrzezinski@gmail.com**
 &nbsp;
 &nbsp;
