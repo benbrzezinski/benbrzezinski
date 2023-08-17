@@ -2,9 +2,9 @@
 <h3 align="center">A passionate front-end developer from Poland</h3>
 &nbsp;
 &nbsp;
-🌱 I’m currently learning **Node.js, Express, MongoDB and Docker**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB and Docker**
 
-📫 How to reach me **benek9311@wp.pl / beniaminbrzezinski@gmail.com**
+- 📫 How to reach me **benek9311@wp.pl / beniaminbrzezinski@gmail.com**
 &nbsp;
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
