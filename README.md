@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beniamin Brzeziński</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB and Docker**
+- 🌱 I’m currently learning **TypeScript and Docker**
 
 - 📫 How to reach me **benek9311@wp.pl / beniaminbrzezinski@gmail.com**
 
